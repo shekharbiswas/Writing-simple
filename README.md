@@ -10,7 +10,9 @@
 
 Its always a good idea to use punctuation:
 
-![image](https://github.com/shekharbiswas/Writing-simple/assets/32758439/0bdbb545-2cd0-447a-831a-c85c84a6c8f2 | width=100)
+<img src="[https://github.com/favicon.ico](https://github.com/shekharbiswas/Writing-simple/assets/32758439/0bdbb545-2cd0-447a-831a-c85c84a6c8f2)" width="100">
+
+![](https://github.com/shekharbiswas/Writing-simple/assets/32758439/0bdbb545-2cd0-447a-831a-c85c84a6c8f2 | width=100)
 
 
 ![image](https://github.com/shekharbiswas/Writing-simple/assets/32758439/06fbd2d0-3f31-434d-bc35-4243d9732b0b =250x250)
