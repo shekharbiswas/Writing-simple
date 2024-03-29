@@ -7,6 +7,10 @@
 - Active voice sounds better than Passive
 - Don't use verbs as Nouns
 - It is perfect to use We / They ( pronouns )
-- 
 
-- 
+Its always a good idea to use punctuation:
+
+![image](https://github.com/shekharbiswas/Writing-simple/assets/32758439/0bdbb545-2cd0-447a-831a-c85c84a6c8f2)
+
+
+
