@@ -19,6 +19,13 @@ Its always a good idea to use punctuation:
 - Example of using colon and further condesning:
 
 <img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/8d5e78a7-aa21-4e8e-a629-f01f430d8b98" width="480">
+<img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/f3274afd-6fec-4dfd-ae18-4e53e73ee85a" width="480">
+
+**Final version**
+
+<img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/ebda8a7b-2977-4d4a-a181-274c31355143" width="480">
 
 
 
+
+![image]()
