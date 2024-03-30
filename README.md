@@ -14,4 +14,11 @@ Its always a good idea to use punctuation:
 
 - Due to formality order, we see less dash / parenthesis compared to semicolons, commas etc.
 
-<img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/06fbd2d0-3f31-434d-bc35-4243d9732b0b" width="400">
+<img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/06fbd2d0-3f31-434d-bc35-4243d9732b0b" width="480">
+
+- Example of using colon and further condesning:
+
+<img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/8d5e78a7-aa21-4e8e-a629-f01f430d8b98" width="480">
+
+
+
