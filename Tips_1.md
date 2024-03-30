@@ -1,4 +1,4 @@
-Its always a good idea to use punctuation:
+Its always a good idea to use punctuation and remove unnecessary information:
 
 <img src="https://github.com/shekharbiswas/Writing-simple/assets/32758439/0bdbb545-2cd0-447a-831a-c85c84a6c8f2" width="400">
 
