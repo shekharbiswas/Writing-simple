@@ -30,5 +30,3 @@ removing the highlighted part
 
 
 
-
-![image]()
